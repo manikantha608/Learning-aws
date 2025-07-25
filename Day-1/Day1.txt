@@ -1,0 +1,17 @@
+1.what is cloud ?
+Cloud computing is a way of delivering IT services over the internet, so users can access resources like servers, storage, or software without owning physical infrastructure. It's cost-effective, scalable, and allows businesses to be more agile. For example, companies use services like AWS or Azure to run applications, store data, or build solutions without managing the hardware themselves.
+
+2.public vs private cloud ?
+A Public Cloud is a cloud environment shared among multiple users and managed by third-party providers like AWS or Azure. It's cost-effective and scalable.
+
+In contrast, a Private Cloud is dedicated to a single organization. It offers more control and security, but it's costlier and requires more maintenance.
+
+Public cloud is ideal for startups and dynamic workloads, while private cloud suits organizations with strict security and compliance needs.
+
+
+3.why public cloud is so popular ?
+Public cloud is popular because it provides flexible, affordable access to computing resources without the need to manage physical servers. Companies can scale quickly, pay only for what they use, and benefit from the latest technologies and security updates offered by providers like AWS or Azure. It’s especially useful for businesses wanting fast innovation with minimal upfront investment.
+
+
+4.why AWS ?
+I prefer AWS because it’s the most mature and widely-used cloud platform with a wide range of services. It provides everything needed to build, deploy, and manage applications at scale. Its strong security, global reach, and flexible pricing make it ideal for both startups and large enterprises. Plus, the learning and community support around AWS is huge, which makes development and troubleshooting much easier.
